@@ -1,0 +1,115 @@
+# depslib dependency file v1.0
+1470270263 source:c:\users\usuario\desktop\estructuras algoritmos\bank tdemd v 1.0\main.cpp
+	<bits/stdc++.h>
+	<windows.h>
+	"Loading.h"
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<conio.h>
+	<stdlib.h>
+	"Estado.h"
+	"DatosPersonales.h"
+	"usuarios.h"
+	"administradores.h"
+	<fstream>
+	<ctime>
+	<iomanip>
+	"nodo.h"
+	"reloj.h"
+	"lista.h"
+	"persona.h"
+	"patrimonio.h"
+	"historial.h"
+	"fichero.h"
+	"transaccion.h"
+	"w.h"
+	"Credito.h"
+
+1470262660 c:\users\usuario\desktop\estructuras algoritmos\bank tdemd v 1.0\loading.h
+
+1470238228 c:\users\usuario\desktop\estructuras algoritmos\bank tdemd v 1.0\datospersonales.h
+
+1470268319 c:\users\usuario\desktop\estructuras algoritmos\bank tdemd v 1.0\usuarios.h
+
+1470065142 c:\users\usuario\desktop\estructuras algoritmos\bank tdemd v 1.0\administradores.h
+
+1470262642 c:\users\usuario\desktop\estructuras algoritmos\bank tdemd v 1.0\estado.h
+
+1470266147 c:\users\usuario\desktop\estructuras algoritmos\bank tdemd v 1.0\credito.h
+
+1469995186 c:\users\usuario\desktop\estructuras algoritmos\bank tdemd v 1.0\nodo.h
+
+1469995918 c:\users\usuario\desktop\estructuras algoritmos\bank tdemd v 1.0\reloj.h
+
+1470262895 c:\users\usuario\desktop\estructuras algoritmos\bank tdemd v 1.0\lista.h
+
+1470259116 c:\users\usuario\desktop\estructuras algoritmos\bank tdemd v 1.0\persona.h
+
+1470026846 c:\users\usuario\desktop\estructuras algoritmos\bank tdemd v 1.0\patrimonio.h
+
+1470033828 c:\users\usuario\desktop\estructuras algoritmos\bank tdemd v 1.0\historial.h
+
+1470076750 c:\users\usuario\desktop\estructuras algoritmos\bank tdemd v 1.0\fichero.h
+
+1470014074 c:\users\usuario\desktop\estructuras algoritmos\bank tdemd v 1.0\transaccion.h
+
+1470266958 c:\users\usuario\desktop\estructuras algoritmos\bank tdemd v 1.0\w.h
+
+1470270263 source:g:\#disco local e\# cursos\#estructuras datos y algoritmos\bank tdemd v 1.0\main.cpp
+	<bits/stdc++.h>
+	<windows.h>
+	"Loading.h"
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<conio.h>
+	<stdlib.h>
+	"Estado.h"
+	"DatosPersonales.h"
+	"usuarios.h"
+	"administradores.h"
+	<fstream>
+	<ctime>
+	<iomanip>
+	"nodo.h"
+	"reloj.h"
+	"lista.h"
+	"persona.h"
+	"patrimonio.h"
+	"historial.h"
+	"fichero.h"
+	"transaccion.h"
+	"w.h"
+	"Credito.h"
+
+1470262660 g:\#disco local e\# cursos\#estructuras datos y algoritmos\bank tdemd v 1.0\loading.h
+
+1470262642 g:\#disco local e\# cursos\#estructuras datos y algoritmos\bank tdemd v 1.0\estado.h
+
+1470238228 g:\#disco local e\# cursos\#estructuras datos y algoritmos\bank tdemd v 1.0\datospersonales.h
+
+1470268319 g:\#disco local e\# cursos\#estructuras datos y algoritmos\bank tdemd v 1.0\usuarios.h
+
+1470065142 g:\#disco local e\# cursos\#estructuras datos y algoritmos\bank tdemd v 1.0\administradores.h
+
+1469995186 g:\#disco local e\# cursos\#estructuras datos y algoritmos\bank tdemd v 1.0\nodo.h
+
+1469995918 g:\#disco local e\# cursos\#estructuras datos y algoritmos\bank tdemd v 1.0\reloj.h
+
+1470262895 g:\#disco local e\# cursos\#estructuras datos y algoritmos\bank tdemd v 1.0\lista.h
+
+1470259116 g:\#disco local e\# cursos\#estructuras datos y algoritmos\bank tdemd v 1.0\persona.h
+
+1470026846 g:\#disco local e\# cursos\#estructuras datos y algoritmos\bank tdemd v 1.0\patrimonio.h
+
+1470033828 g:\#disco local e\# cursos\#estructuras datos y algoritmos\bank tdemd v 1.0\historial.h
+
+1470076750 g:\#disco local e\# cursos\#estructuras datos y algoritmos\bank tdemd v 1.0\fichero.h
+
+1470014074 g:\#disco local e\# cursos\#estructuras datos y algoritmos\bank tdemd v 1.0\transaccion.h
+
+1470266958 g:\#disco local e\# cursos\#estructuras datos y algoritmos\bank tdemd v 1.0\w.h
+
+1470266147 g:\#disco local e\# cursos\#estructuras datos y algoritmos\bank tdemd v 1.0\credito.h
+

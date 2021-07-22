@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="bank TDEMD v 1.0" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/bank TDEMD v 1" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/bank TDEMD v 1" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Administradores.txt" />
+		<Unit filename="Credito.h" />
+		<Unit filename="DatosPersonales.h" />
+		<Unit filename="DatosPersonales.txt" />
+		<Unit filename="Estado.h" />
+		<Unit filename="Loading.h" />
+		<Unit filename="administradores.h" />
+		<Unit filename="estado.txt" />
+		<Unit filename="historial.txt" />
+		<Unit filename="main.cpp" />
+		<Unit filename="prestamos.txt" />
+		<Unit filename="solicitudes.txt" />
+		<Unit filename="usuarios.h" />
+		<Unit filename="w.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
